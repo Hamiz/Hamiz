@@ -73,6 +73,14 @@ Crafting next-generation user experiences and pushing the boundaries of frontend
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamiz&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C" alt="hamiz" /></a> </p>
 
+## 🔥 GitHub Streak
+
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamiz&theme=radical)](https://github.com/hamiz)
+
+</div>
+
 ## 🌐 Digital Nexus
 
 <div align="center">
